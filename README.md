@@ -7,4 +7,4 @@ Circuit Diagram:
 ![image](https://github.com/VibhavSimha/AUTOMATED-WEIGHT-BASED-SORTING-USING-ARDUINO/assets/120305283/817a4e5c-c429-48b6-b457-a1e8a2d375b9)
 
 
-Run the `calibration.ino` file first to set the tare value and update the value in  `scale.set_scale(<value>);` of `Main.ino`
+Run the `Calibration.ino` file first to set the tare value and update the value in  `scale.set_scale(<value>);` of `Main.ino`
