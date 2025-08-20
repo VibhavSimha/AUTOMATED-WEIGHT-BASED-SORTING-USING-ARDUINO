@@ -21,6 +21,7 @@ By integrating IoT with real-time databases, the system ensures precision, reduc
 * **Blynk Cloud Dashboard** for real-time monitoring and manual/automatic control.
 ## Prototype System
 <img width="1512" height="1134" alt="image" src="https://github.com/user-attachments/assets/46249325-d383-4196-ab17-182c5d3b9dd8" />
+
 ## Blynk Dashboard
 <img width="1280" height="581" alt="image" src="https://github.com/user-attachments/assets/0392e1d8-1f34-4973-9952-58d3f261531d" />
 
