@@ -49,7 +49,7 @@ By integrating IoT with real-time databases, the system ensures precision, reduc
 
 ---
 
-## ESP32 Hardware Wiring (from code)
+## ESP32 Hardware Wiring
 
 | Component | ESP32 Pin |
 | --- | --- |
